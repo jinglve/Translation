@@ -1,6 +1,7 @@
-# Pixhawk Hardware
+# pixhawk硬件
 
-[Pixhawk](https://pixhawk.org/modules/pixhawk) is the standard microcontroller platform for the PX4 flight stack. It runs the PX4 Middleware on the [NuttX](http://nuttx.org) OS. As a CC-BY-SA 3.0 licensed Open Hardware design, all schematics and design files are [available](https://github.com/PX4/Hardware). The [Pixfalcon](../5_Autopilot-Hardware/pixfalcon.md) is a smaller version of Pixhawk for FPV racers and similar platforms. For drones requiring high processing performance or a camera interface the [Snapdragon Flight](../5_Autopilot-Hardware/snapdragon_flight.md) might be a more optimal fit.
+
+pixhawk是PX4飞控层的标准控制平台，它在Nuttx的操作系统上运行PX4的中间层。由于CC-BY-SA 3.0许可开放硬件设计，所有原理图和设计文件都是可提供的。对FPV racers和类似的平台来说pixfaclon是pixhawk的一个小版本。高通晓龙对于较高加工性能或者照相平台来说会有一个更合适的优选。
 
 ![pixhawk](../pictures/hardware/hardware-pixhawk.png)
 
